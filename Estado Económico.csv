@@ -1,4 +1,4 @@
-Ciudad,Trimestres,Estado Económico,Relación Hombre-Mujer
+Ciudad,Trimestres,Estado EconÃ³mico,RelaciÃ³n Hombre-Mujer
 Guadalajara,1,PEA,1.497905036
 Guadalajara,1,PNEA,0.659864653
 CDMX,1,PEA,1.40027254
@@ -35,7 +35,7 @@ Guadalajara,5,PEA,1.507183649
 Guadalajara,5,PNEA,0.446894924
 CDMX,5,PEA,1.233029701
 CDMX,5,PNEA,0.523502658
-Monterrey,5,PEA,12.41957094
+Monterrey,5,PEA,1.517188943
 Monterrey,5,PNEA,0.541944313
 Aguascalientes,5,PEA,1.451634631
 Aguascalientes,5,PNEA,0.442775609
